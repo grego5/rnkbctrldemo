@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Keyboard Controller Demo",
+    "slug": "keyboard-controller-demo",
+    "scheme": "keyboard-controller-demo",
+    "orientation": "portrait",
+    "plugins": ["expo-dev-client", "./plugins/withCmakeObjectPathMax"],
+    "android": {
+      "package": "com.demo.keyboardcontrollerdemo"
+    }
+  }
+}
+
